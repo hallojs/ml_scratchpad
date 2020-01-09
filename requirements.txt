@@ -1,0 +1,9 @@
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+notebook
+widgetsnbextension
+numpy
+pandas
+matplotlib
