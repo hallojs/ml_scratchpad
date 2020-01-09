@@ -1,4 +1,6 @@
 # nn_scratch_np
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hallojs/nn_scratch_np/master)
+
 Here I just play around with numpy to implement neuronal networks from scratch for my own understanding.
 
 ## Notebooks
