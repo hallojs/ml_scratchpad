@@ -1,5 +1,5 @@
 # nn_scratch_np
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hallojs/nn_scratch_np/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hallojs/nn_scratch_np/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hallojs/nn_scratch_np/blob/master/nn_from_scratch_with_np.ipynb)<sup>(1)</sup> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hallojs/nn_scratch_np/blob/master/nn_from_scratch_with_np2.ipynb)<sup>(2)</sup>
 
 Here I just play around with numpy to implement neuronal networks from scratch for my own understanding.
 
