@@ -1,4 +1,4 @@
-# nn_scratch_np
+# ml_scratch_pad
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hallojs/nn_scratch_np/master)
 
 Here I just play around with NumPy to implement ML stuff from scratch for my own understanding.
